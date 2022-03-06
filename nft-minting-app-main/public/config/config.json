@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0230b0a00D30227E052f1F497D28F60e091b8534",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0230b0a00d30227e052f1f497d28f60e091b8534",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Beans NFT",
+  "SYMBOL": "CBNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/coolbeansnft",
+  "SHOW_BACKGROUND": true
+}
